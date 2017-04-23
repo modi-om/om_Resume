@@ -1,6 +1,6 @@
 # Resume
 
-This is my resume writtern with the help of LaTeX.
+This is my resume written with the help of LaTeX.
 
 ______________________________________
 
